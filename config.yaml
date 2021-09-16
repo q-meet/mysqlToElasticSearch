@@ -1,0 +1,15 @@
+mysql:
+  host: 127.0.0.1
+  port: 3306
+  user: root
+  password: root
+  database: test
+es:
+  host: http://127.0.0.1
+  port: 9200
+  user:
+  password:
+kafka:
+  host: localhost
+  port: 9092
+  topic: kafka_log
